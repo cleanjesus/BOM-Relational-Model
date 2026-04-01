@@ -1,12 +1,12 @@
 # Motorcycle Bill of Materials Database
 
-A relational database project in PostgreSQL for modeling a motorcycle bill of materials (BOM). The schema supports assembly structures, purchased components, vendor relationships, and part usage quantities, enabling structured querying of component hierarchies and assembly composition.
+A PostgreSQL project for modeling a motorcycle bill of materials (BOM) using a relational schema. The database supports assembly structures, purchased components, vendor relationships, and part usage quantities, enabling structured querying of component hierarchies and assembly composition.
 
 ## Project Structure
 
-- `schema/` — table definitions and relational constraints
-- `data/` — sample data population scripts
-- `queries/` — SQL queries for BOM analysis and reporting
+- `schema/tables.sql` — table definitions and relational constraints
+- `data/inserts.sql` — sample data population script
+- `Queries.sql` — SQL queries for BOM analysis and reporting
 
 ## Schema Overview
 
@@ -22,9 +22,9 @@ The database is organized around the following entities:
 
 Run the SQL files in the following order:
 
-1. `schema/create_tables.sql`
-2. `data/insert_data.sql`
-3. desired files in `queries/`
+1. `schema/tables.sql`
+2. `data/inserts.sql`
+3. `Queries.sql`
 
 ## Included Query Examples
 
