@@ -1,0 +1,26 @@
+Motorcycle,0
+Engine,1
+Transmission,1.1
+Clutch,1.1.1
+Variator,1.1.2
+Belt,1.1.3
+Head,1.2
+Pistons,1.2.1
+Rings,1.2.2
+Battery,1.3
+ECU,1.3.1
+Starter,1.3.2
+Stator,1.3.2.1
+Stator Wiring,1.3.2.1.1
+Frame,2
+Handlebars,2.1
+Grips,2.1.1
+Throttle,2.1.2
+Throttle Cables,2.1.2.1
+Kill Switch,2.1.3
+Seat,2.2
+Foam,2.2.1
+Fabric,2.2.2
+Headlight,2.3
+Bulb,2.3.1
+Headlight Wiring,2.3.2

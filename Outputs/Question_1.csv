@@ -1,0 +1,28 @@
+1,Engine,0,Motorcycle
+2,Frame,0,Motorcycle
+1.1,Transmission,1,Engine
+1.2,Head,1,Engine
+1.3,Battery,1,Engine
+1.1.1,Clutch,1.1,Transmission
+1.1.2,Variator,1.1,Transmission
+1.1.3,Belt,1.1,Transmission
+1.1.1.1,Springs,1.1.1,Clutch
+1.1.1.2,Torque Plates,1.1.1,Clutch
+1.1.2.1,Rollers,1.1.2,Variator
+1.2.1,Pistons,1.2,Head
+1.2.2,Rings,1.2,Head
+1.3.1,ECU,1.3,Battery
+1.3.2,Starter,1.3,Battery
+1.3.2.1,Stator,1.3.2,Starter
+1.3.2.1.1,Stator Wiring,1.3.2.1,Stator
+2.1,Handlebars,2,Frame
+2.2,Seat,2,Frame
+2.3,Headlight,2,Frame
+2.1.1,Grips,2.1,Handlebars
+2.1.2,Throttle,2.1,Handlebars
+2.1.3,Kill Switch,2.1,Handlebars
+2.1.2.1,Throttle Cables,2.1.2,Throttle
+2.2.1,Foam,2.2,Seat
+2.2.2,Fabric,2.2,Seat
+2.3.1,Bulb,2.3,Headlight
+2.3.2,Headlight Wiring,2.3,Headlight

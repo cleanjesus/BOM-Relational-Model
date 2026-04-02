@@ -1,0 +1,237 @@
+0,Motorcycle,1,Engine,0,Motorcycle,2,Frame
+0,Motorcycle,1,Engine,1,Engine,1.1,Transmission
+0,Motorcycle,1,Engine,1,Engine,1.3,Battery
+0,Motorcycle,2,Frame,1,Engine,1.1,Transmission
+0,Motorcycle,2,Frame,1,Engine,1.3,Battery
+0,Motorcycle,2,Frame,1.1,Transmission,1.1.1,Clutch
+0,Motorcycle,1,Engine,1.1,Transmission,1.1.3,Belt
+0,Motorcycle,1,Engine,1.1,Transmission,1.1.2,Variator
+0,Motorcycle,2,Frame,1.1,Transmission,1.1.2,Variator
+0,Motorcycle,2,Frame,1.1,Transmission,1.1.3,Belt
+0,Motorcycle,1,Engine,1.1,Transmission,1.1.1,Clutch
+0,Motorcycle,1,Engine,1.1.1,Clutch,1.1.1.2,Torque Plates
+0,Motorcycle,2,Frame,1.1.1,Clutch,1.1.1.2,Torque Plates
+0,Motorcycle,2,Frame,1.3,Battery,1.3.2,Starter
+0,Motorcycle,2,Frame,1.3,Battery,1.3.1,ECU
+0,Motorcycle,1,Engine,1.3,Battery,1.3.2,Starter
+0,Motorcycle,1,Engine,1.3,Battery,1.3.1,ECU
+0,Motorcycle,1,Engine,1.3.2,Starter,1.3.2.1,Stator
+0,Motorcycle,2,Frame,1.3.2,Starter,1.3.2.1,Stator
+0,Motorcycle,1,Engine,1.3.2.1,Stator,1.3.2.1.1,Stator Wiring
+0,Motorcycle,2,Frame,1.3.2.1,Stator,1.3.2.1.1,Stator Wiring
+0,Motorcycle,1,Engine,2,Frame,2.3,Headlight
+0,Motorcycle,1,Engine,2,Frame,2.2,Seat
+0,Motorcycle,1,Engine,2,Frame,2.1,Handlebars
+0,Motorcycle,2,Frame,2,Frame,2.3,Headlight
+0,Motorcycle,2,Frame,2,Frame,2.2,Seat
+0,Motorcycle,2,Frame,2,Frame,2.1,Handlebars
+0,Motorcycle,2,Frame,2.1,Handlebars,2.1.2,Throttle
+0,Motorcycle,1,Engine,2.1,Handlebars,2.1.2,Throttle
+0,Motorcycle,1,Engine,2.1,Handlebars,2.1.3,Kill Switch
+0,Motorcycle,2,Frame,2.1,Handlebars,2.1.3,Kill Switch
+0,Motorcycle,1,Engine,2.1.2,Throttle,2.1.2.1,Throttle Cables
+0,Motorcycle,2,Frame,2.1.2,Throttle,2.1.2.1,Throttle Cables
+0,Motorcycle,2,Frame,2.2,Seat,2.2.1,Foam
+0,Motorcycle,1,Engine,2.2,Seat,2.2.2,Fabric
+0,Motorcycle,2,Frame,2.2,Seat,2.2.2,Fabric
+0,Motorcycle,1,Engine,2.2,Seat,2.2.1,Foam
+0,Motorcycle,2,Frame,2.3,Headlight,2.3.1,Bulb
+0,Motorcycle,1,Engine,2.3,Headlight,2.3.1,Bulb
+0,Motorcycle,1,Engine,2.3,Headlight,2.3.2,Headlight Wiring
+0,Motorcycle,2,Frame,2.3,Headlight,2.3.2,Headlight Wiring
+1,Engine,1.1,Transmission,1,Engine,1.3,Battery
+1,Engine,1.1,Transmission,1.1,Transmission,1.1.1,Clutch
+1,Engine,1.3,Battery,1.1,Transmission,1.1.1,Clutch
+1,Engine,1.3,Battery,1.1,Transmission,1.1.3,Belt
+1,Engine,1.1,Transmission,1.1,Transmission,1.1.2,Variator
+1,Engine,1.1,Transmission,1.1,Transmission,1.1.3,Belt
+1,Engine,1.3,Battery,1.1,Transmission,1.1.2,Variator
+1,Engine,1.1,Transmission,1.1.1,Clutch,1.1.1.2,Torque Plates
+1,Engine,1.3,Battery,1.1.1,Clutch,1.1.1.2,Torque Plates
+1,Engine,1.2,Head,1.2,Head,1.2.1,Pistons
+1,Engine,1.2,Head,1.2,Head,1.2.2,Rings
+1,Engine,1.3,Battery,1.3,Battery,1.3.2,Starter
+1,Engine,1.1,Transmission,1.3,Battery,1.3.2,Starter
+1,Engine,1.1,Transmission,1.3,Battery,1.3.1,ECU
+1,Engine,1.3,Battery,1.3,Battery,1.3.1,ECU
+1,Engine,1.3,Battery,1.3.2,Starter,1.3.2.1,Stator
+1,Engine,1.1,Transmission,1.3.2,Starter,1.3.2.1,Stator
+1,Engine,1.1,Transmission,1.3.2.1,Stator,1.3.2.1.1,Stator Wiring
+1,Engine,1.3,Battery,1.3.2.1,Stator,1.3.2.1.1,Stator Wiring
+1,Engine,1.3,Battery,2,Frame,2.2,Seat
+1,Engine,1.1,Transmission,2,Frame,2.3,Headlight
+1,Engine,1.1,Transmission,2,Frame,2.2,Seat
+1,Engine,1.1,Transmission,2,Frame,2.1,Handlebars
+1,Engine,1.3,Battery,2,Frame,2.3,Headlight
+1,Engine,1.3,Battery,2,Frame,2.1,Handlebars
+1,Engine,1.3,Battery,2.1,Handlebars,2.1.2,Throttle
+1,Engine,1.2,Head,2.1,Handlebars,2.1.1,Grips
+1,Engine,1.3,Battery,2.1,Handlebars,2.1.3,Kill Switch
+1,Engine,1.1,Transmission,2.1,Handlebars,2.1.2,Throttle
+1,Engine,1.1,Transmission,2.1,Handlebars,2.1.3,Kill Switch
+1,Engine,1.3,Battery,2.1.2,Throttle,2.1.2.1,Throttle Cables
+1,Engine,1.1,Transmission,2.1.2,Throttle,2.1.2.1,Throttle Cables
+1,Engine,1.1,Transmission,2.2,Seat,2.2.2,Fabric
+1,Engine,1.3,Battery,2.2,Seat,2.2.2,Fabric
+1,Engine,1.1,Transmission,2.2,Seat,2.2.1,Foam
+1,Engine,1.3,Battery,2.2,Seat,2.2.1,Foam
+1,Engine,1.1,Transmission,2.3,Headlight,2.3.2,Headlight Wiring
+1,Engine,1.3,Battery,2.3,Headlight,2.3.2,Headlight Wiring
+1,Engine,1.3,Battery,2.3,Headlight,2.3.1,Bulb
+1,Engine,1.1,Transmission,2.3,Headlight,2.3.1,Bulb
+1.1,Transmission,1.1.2,Variator,1.1,Transmission,1.1.3,Belt
+1.1,Transmission,1.1.1,Clutch,1.1,Transmission,1.1.2,Variator
+1.1,Transmission,1.1.1,Clutch,1.1,Transmission,1.1.3,Belt
+1.1,Transmission,1.1.2,Variator,1.1.1,Clutch,1.1.1.2,Torque Plates
+1.1,Transmission,1.1.3,Belt,1.1.1,Clutch,1.1.1.2,Torque Plates
+1.1,Transmission,1.1.1,Clutch,1.1.1,Clutch,1.1.1.2,Torque Plates
+1.1,Transmission,1.1.2,Variator,1.3,Battery,1.3.2,Starter
+1.1,Transmission,1.1.3,Belt,1.3,Battery,1.3.1,ECU
+1.1,Transmission,1.1.1,Clutch,1.3,Battery,1.3.1,ECU
+1.1,Transmission,1.1.3,Belt,1.3,Battery,1.3.2,Starter
+1.1,Transmission,1.1.1,Clutch,1.3,Battery,1.3.2,Starter
+1.1,Transmission,1.1.2,Variator,1.3,Battery,1.3.1,ECU
+1.1,Transmission,1.1.3,Belt,1.3.2,Starter,1.3.2.1,Stator
+1.1,Transmission,1.1.1,Clutch,1.3.2,Starter,1.3.2.1,Stator
+1.1,Transmission,1.1.2,Variator,1.3.2,Starter,1.3.2.1,Stator
+1.1,Transmission,1.1.3,Belt,1.3.2.1,Stator,1.3.2.1.1,Stator Wiring
+1.1,Transmission,1.1.1,Clutch,1.3.2.1,Stator,1.3.2.1.1,Stator Wiring
+1.1,Transmission,1.1.2,Variator,1.3.2.1,Stator,1.3.2.1.1,Stator Wiring
+1.1,Transmission,1.1.3,Belt,2,Frame,2.2,Seat
+1.1,Transmission,1.1.3,Belt,2,Frame,2.3,Headlight
+1.1,Transmission,1.1.2,Variator,2,Frame,2.3,Headlight
+1.1,Transmission,1.1.1,Clutch,2,Frame,2.2,Seat
+1.1,Transmission,1.1.3,Belt,2,Frame,2.1,Handlebars
+1.1,Transmission,1.1.1,Clutch,2,Frame,2.1,Handlebars
+1.1,Transmission,1.1.2,Variator,2,Frame,2.2,Seat
+1.1,Transmission,1.1.2,Variator,2,Frame,2.1,Handlebars
+1.1,Transmission,1.1.1,Clutch,2,Frame,2.3,Headlight
+1.1,Transmission,1.1.2,Variator,2.1,Handlebars,2.1.3,Kill Switch
+1.1,Transmission,1.1.3,Belt,2.1,Handlebars,2.1.2,Throttle
+1.1,Transmission,1.1.2,Variator,2.1,Handlebars,2.1.2,Throttle
+1.1,Transmission,1.1.3,Belt,2.1,Handlebars,2.1.3,Kill Switch
+1.1,Transmission,1.1.1,Clutch,2.1,Handlebars,2.1.2,Throttle
+1.1,Transmission,1.1.1,Clutch,2.1,Handlebars,2.1.3,Kill Switch
+1.1,Transmission,1.1.3,Belt,2.1.2,Throttle,2.1.2.1,Throttle Cables
+1.1,Transmission,1.1.1,Clutch,2.1.2,Throttle,2.1.2.1,Throttle Cables
+1.1,Transmission,1.1.2,Variator,2.1.2,Throttle,2.1.2.1,Throttle Cables
+1.1,Transmission,1.1.3,Belt,2.2,Seat,2.2.2,Fabric
+1.1,Transmission,1.1.2,Variator,2.2,Seat,2.2.1,Foam
+1.1,Transmission,1.1.2,Variator,2.2,Seat,2.2.2,Fabric
+1.1,Transmission,1.1.1,Clutch,2.2,Seat,2.2.1,Foam
+1.1,Transmission,1.1.1,Clutch,2.2,Seat,2.2.2,Fabric
+1.1,Transmission,1.1.3,Belt,2.2,Seat,2.2.1,Foam
+1.1,Transmission,1.1.2,Variator,2.3,Headlight,2.3.1,Bulb
+1.1,Transmission,1.1.2,Variator,2.3,Headlight,2.3.2,Headlight Wiring
+1.1,Transmission,1.1.3,Belt,2.3,Headlight,2.3.2,Headlight Wiring
+1.1,Transmission,1.1.3,Belt,2.3,Headlight,2.3.1,Bulb
+1.1,Transmission,1.1.1,Clutch,2.3,Headlight,2.3.1,Bulb
+1.1,Transmission,1.1.1,Clutch,2.3,Headlight,2.3.2,Headlight Wiring
+1.1.1,Clutch,1.1.1.2,Torque Plates,1.3,Battery,1.3.1,ECU
+1.1.1,Clutch,1.1.1.2,Torque Plates,1.3,Battery,1.3.2,Starter
+1.1.1,Clutch,1.1.1.2,Torque Plates,1.3.2,Starter,1.3.2.1,Stator
+1.1.1,Clutch,1.1.1.2,Torque Plates,1.3.2.1,Stator,1.3.2.1.1,Stator Wiring
+1.1.1,Clutch,1.1.1.2,Torque Plates,2,Frame,2.2,Seat
+1.1.1,Clutch,1.1.1.2,Torque Plates,2,Frame,2.3,Headlight
+1.1.1,Clutch,1.1.1.2,Torque Plates,2,Frame,2.1,Handlebars
+1.1.1,Clutch,1.1.1.2,Torque Plates,2.1,Handlebars,2.1.3,Kill Switch
+1.1.1,Clutch,1.1.1.2,Torque Plates,2.1,Handlebars,2.1.2,Throttle
+1.1.1,Clutch,1.1.1.2,Torque Plates,2.1.2,Throttle,2.1.2.1,Throttle Cables
+1.1.1,Clutch,1.1.1.2,Torque Plates,2.2,Seat,2.2.1,Foam
+1.1.1,Clutch,1.1.1.2,Torque Plates,2.2,Seat,2.2.2,Fabric
+1.1.1,Clutch,1.1.1.2,Torque Plates,2.3,Headlight,2.3.1,Bulb
+1.1.1,Clutch,1.1.1.2,Torque Plates,2.3,Headlight,2.3.2,Headlight Wiring
+1.2,Head,1.2.1,Pistons,1.2,Head,1.2.2,Rings
+1.2,Head,1.2.2,Rings,2.1,Handlebars,2.1.1,Grips
+1.2,Head,1.2.1,Pistons,2.1,Handlebars,2.1.1,Grips
+1.3,Battery,1.3.1,ECU,1.3,Battery,1.3.2,Starter
+1.3,Battery,1.3.1,ECU,1.3.2,Starter,1.3.2.1,Stator
+1.3,Battery,1.3.2,Starter,1.3.2,Starter,1.3.2.1,Stator
+1.3,Battery,1.3.2,Starter,1.3.2.1,Stator,1.3.2.1.1,Stator Wiring
+1.3,Battery,1.3.1,ECU,1.3.2.1,Stator,1.3.2.1.1,Stator Wiring
+1.3,Battery,1.3.1,ECU,2,Frame,2.3,Headlight
+1.3,Battery,1.3.1,ECU,2,Frame,2.2,Seat
+1.3,Battery,1.3.1,ECU,2,Frame,2.1,Handlebars
+1.3,Battery,1.3.2,Starter,2,Frame,2.3,Headlight
+1.3,Battery,1.3.2,Starter,2,Frame,2.2,Seat
+1.3,Battery,1.3.2,Starter,2,Frame,2.1,Handlebars
+1.3,Battery,1.3.2,Starter,2.1,Handlebars,2.1.3,Kill Switch
+1.3,Battery,1.3.2,Starter,2.1,Handlebars,2.1.2,Throttle
+1.3,Battery,1.3.1,ECU,2.1,Handlebars,2.1.2,Throttle
+1.3,Battery,1.3.1,ECU,2.1,Handlebars,2.1.3,Kill Switch
+1.3,Battery,1.3.2,Starter,2.1.2,Throttle,2.1.2.1,Throttle Cables
+1.3,Battery,1.3.1,ECU,2.1.2,Throttle,2.1.2.1,Throttle Cables
+1.3,Battery,1.3.1,ECU,2.2,Seat,2.2.1,Foam
+1.3,Battery,1.3.1,ECU,2.2,Seat,2.2.2,Fabric
+1.3,Battery,1.3.2,Starter,2.2,Seat,2.2.2,Fabric
+1.3,Battery,1.3.2,Starter,2.2,Seat,2.2.1,Foam
+1.3,Battery,1.3.2,Starter,2.3,Headlight,2.3.2,Headlight Wiring
+1.3,Battery,1.3.1,ECU,2.3,Headlight,2.3.1,Bulb
+1.3,Battery,1.3.2,Starter,2.3,Headlight,2.3.1,Bulb
+1.3,Battery,1.3.1,ECU,2.3,Headlight,2.3.2,Headlight Wiring
+1.3.2,Starter,1.3.2.1,Stator,1.3.2.1,Stator,1.3.2.1.1,Stator Wiring
+1.3.2,Starter,1.3.2.1,Stator,2,Frame,2.3,Headlight
+1.3.2,Starter,1.3.2.1,Stator,2,Frame,2.2,Seat
+1.3.2,Starter,1.3.2.1,Stator,2,Frame,2.1,Handlebars
+1.3.2,Starter,1.3.2.1,Stator,2.1,Handlebars,2.1.2,Throttle
+1.3.2,Starter,1.3.2.1,Stator,2.1,Handlebars,2.1.3,Kill Switch
+1.3.2,Starter,1.3.2.1,Stator,2.1.2,Throttle,2.1.2.1,Throttle Cables
+1.3.2,Starter,1.3.2.1,Stator,2.2,Seat,2.2.1,Foam
+1.3.2,Starter,1.3.2.1,Stator,2.2,Seat,2.2.2,Fabric
+1.3.2,Starter,1.3.2.1,Stator,2.3,Headlight,2.3.1,Bulb
+1.3.2,Starter,1.3.2.1,Stator,2.3,Headlight,2.3.2,Headlight Wiring
+1.3.2.1,Stator,1.3.2.1.1,Stator Wiring,2,Frame,2.1,Handlebars
+1.3.2.1,Stator,1.3.2.1.1,Stator Wiring,2,Frame,2.3,Headlight
+1.3.2.1,Stator,1.3.2.1.1,Stator Wiring,2,Frame,2.2,Seat
+1.3.2.1,Stator,1.3.2.1.1,Stator Wiring,2.1,Handlebars,2.1.2,Throttle
+1.3.2.1,Stator,1.3.2.1.1,Stator Wiring,2.1,Handlebars,2.1.3,Kill Switch
+1.3.2.1,Stator,1.3.2.1.1,Stator Wiring,2.1.2,Throttle,2.1.2.1,Throttle Cables
+1.3.2.1,Stator,1.3.2.1.1,Stator Wiring,2.2,Seat,2.2.2,Fabric
+1.3.2.1,Stator,1.3.2.1.1,Stator Wiring,2.2,Seat,2.2.1,Foam
+1.3.2.1,Stator,1.3.2.1.1,Stator Wiring,2.3,Headlight,2.3.2,Headlight Wiring
+1.3.2.1,Stator,1.3.2.1.1,Stator Wiring,2.3,Headlight,2.3.1,Bulb
+2,Frame,2.1,Handlebars,2,Frame,2.2,Seat
+2,Frame,2.2,Seat,2,Frame,2.3,Headlight
+2,Frame,2.1,Handlebars,2,Frame,2.3,Headlight
+2,Frame,2.3,Headlight,2.1,Handlebars,2.1.3,Kill Switch
+2,Frame,2.1,Handlebars,2.1,Handlebars,2.1.3,Kill Switch
+2,Frame,2.1,Handlebars,2.1,Handlebars,2.1.2,Throttle
+2,Frame,2.2,Seat,2.1,Handlebars,2.1.3,Kill Switch
+2,Frame,2.2,Seat,2.1,Handlebars,2.1.2,Throttle
+2,Frame,2.3,Headlight,2.1,Handlebars,2.1.2,Throttle
+2,Frame,2.3,Headlight,2.1.2,Throttle,2.1.2.1,Throttle Cables
+2,Frame,2.1,Handlebars,2.1.2,Throttle,2.1.2.1,Throttle Cables
+2,Frame,2.2,Seat,2.1.2,Throttle,2.1.2.1,Throttle Cables
+2,Frame,2.1,Handlebars,2.2,Seat,2.2.2,Fabric
+2,Frame,2.1,Handlebars,2.2,Seat,2.2.1,Foam
+2,Frame,2.2,Seat,2.2,Seat,2.2.2,Fabric
+2,Frame,2.2,Seat,2.2,Seat,2.2.1,Foam
+2,Frame,2.3,Headlight,2.2,Seat,2.2.2,Fabric
+2,Frame,2.3,Headlight,2.2,Seat,2.2.1,Foam
+2,Frame,2.2,Seat,2.3,Headlight,2.3.2,Headlight Wiring
+2,Frame,2.2,Seat,2.3,Headlight,2.3.1,Bulb
+2,Frame,2.1,Handlebars,2.3,Headlight,2.3.1,Bulb
+2,Frame,2.3,Headlight,2.3,Headlight,2.3.2,Headlight Wiring
+2,Frame,2.3,Headlight,2.3,Headlight,2.3.1,Bulb
+2,Frame,2.1,Handlebars,2.3,Headlight,2.3.2,Headlight Wiring
+2.1,Handlebars,2.1.2,Throttle,2.1,Handlebars,2.1.3,Kill Switch
+2.1,Handlebars,2.1.3,Kill Switch,2.1.2,Throttle,2.1.2.1,Throttle Cables
+2.1,Handlebars,2.1.2,Throttle,2.1.2,Throttle,2.1.2.1,Throttle Cables
+2.1,Handlebars,2.1.2,Throttle,2.2,Seat,2.2.1,Foam
+2.1,Handlebars,2.1.2,Throttle,2.2,Seat,2.2.2,Fabric
+2.1,Handlebars,2.1.3,Kill Switch,2.2,Seat,2.2.2,Fabric
+2.1,Handlebars,2.1.3,Kill Switch,2.2,Seat,2.2.1,Foam
+2.1,Handlebars,2.1.2,Throttle,2.3,Headlight,2.3.2,Headlight Wiring
+2.1,Handlebars,2.1.2,Throttle,2.3,Headlight,2.3.1,Bulb
+2.1,Handlebars,2.1.3,Kill Switch,2.3,Headlight,2.3.2,Headlight Wiring
+2.1,Handlebars,2.1.3,Kill Switch,2.3,Headlight,2.3.1,Bulb
+2.1.2,Throttle,2.1.2.1,Throttle Cables,2.2,Seat,2.2.2,Fabric
+2.1.2,Throttle,2.1.2.1,Throttle Cables,2.2,Seat,2.2.1,Foam
+2.1.2,Throttle,2.1.2.1,Throttle Cables,2.3,Headlight,2.3.2,Headlight Wiring
+2.1.2,Throttle,2.1.2.1,Throttle Cables,2.3,Headlight,2.3.1,Bulb
+2.2,Seat,2.2.1,Foam,2.2,Seat,2.2.2,Fabric
+2.2,Seat,2.2.2,Fabric,2.3,Headlight,2.3.2,Headlight Wiring
+2.2,Seat,2.2.1,Foam,2.3,Headlight,2.3.2,Headlight Wiring
+2.2,Seat,2.2.1,Foam,2.3,Headlight,2.3.1,Bulb
+2.2,Seat,2.2.2,Fabric,2.3,Headlight,2.3.1,Bulb
+2.3,Headlight,2.3.1,Bulb,2.3,Headlight,2.3.2,Headlight Wiring
